@@ -294,3 +294,4 @@ PRODUCT_COPY_FILES += \
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/earth/earth-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
